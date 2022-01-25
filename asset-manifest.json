@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/FirstReactApp/static/js/main.ca5c6be5.js",
+    "static/media/Loading.gif": "/FirstReactApp/static/media/Loading.a813db939f75be612b72.gif",
+    "index.html": "/FirstReactApp/index.html",
+    "main.ca5c6be5.js.map": "/FirstReactApp/static/js/main.ca5c6be5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ca5c6be5.js"
+  ]
+}
